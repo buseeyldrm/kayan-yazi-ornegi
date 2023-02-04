@@ -1,0 +1,15 @@
+body{
+    background:rgb(173, 84, 173);
+}
+#yazi{
+    margin: 100px auto;
+    padding: 20px;
+    width: 300px;
+    height: 30px;
+    font-size: 30px;
+    background: #130911;
+    color: #e5f3f7;
+    border: solid 5px rgb(240, 214, 244);
+    
+
+}
